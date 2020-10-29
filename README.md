@@ -1,2 +1,2 @@
 # CodeQLAlertTrigger
-A stupily simple project to show CodeQL alert examples
+A ridiculously simple project to show CodeQL alert examples
